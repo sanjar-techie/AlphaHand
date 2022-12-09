@@ -1,5 +1,5 @@
 # AlphaHand
-AlphaHand - a robotic hand capable of playing Rock-Paper-Scissor with human. 
+AlphaHand - a Robotic Hand capable of playing Rock-Paper-Scissor with human. 
 
 
 Done as a final project for CoE202[Physical AI] class at KAIST )) 
